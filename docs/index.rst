@@ -3,6 +3,12 @@ Webroot Download, Installation, and Reinstallation Guide for Already Purchased S
 
 If you have already purchased Webroot and are looking to reinstall, download, or install it on a new or existing device, this guide will help you every step of the way. Many users face confusion when it comes to managing their Webroot subscription across multiple devices, reinstalling it after a system reset, or activating it using their existing key code. Whether you’re using a Windows or Mac computer, this detailed guide will walk you through the complete process of Webroot download already purchased, install Webroot already purchased, and reinstall Webroot already purchased without any hassle.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://webrootdesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started</a>
+   </div>
+
 Understanding Webroot’s Protection
 ----------------------------------
 
@@ -123,5 +129,6 @@ Conclusion
 ----------
 
 Performing a Webroot download already purchased, install Webroot already purchased, or reinstall Webroot already purchased is a simple process once you know where to start. With your existing subscription, you can secure your system, restore protection after a format, or install Webroot on a new device without paying again. Always ensure you download from the official Webroot website, keep your key code safe, and log in to your Webroot account to manage your subscription easily.
+
 
 By following this step-by-step guide, you can ensure your computer remains safe from viruses, ransomware, and online threats — giving you peace of mind that Webroot SecureAnywhere is actively protecting you at all times.
